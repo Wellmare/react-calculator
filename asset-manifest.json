@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wellmare/react-calculator/static/css/main.062bcbd6.css",
+    "main.js": "/Wellmare/react-calculator/static/js/main.8b71505e.js",
+    "index.html": "/Wellmare/react-calculator/index.html",
+    "main.062bcbd6.css.map": "/Wellmare/react-calculator/static/css/main.062bcbd6.css.map",
+    "main.8b71505e.js.map": "/Wellmare/react-calculator/static/js/main.8b71505e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.062bcbd6.css",
+    "static/js/main.8b71505e.js"
+  ]
+}
